@@ -15,4 +15,13 @@ model_cbam_my_tf_fine_tuned_.keras
 model_my_tf_fine_tuned_.keras
 model_my_tf.h5
 model_my_tf.keras
+ASL
+a-test.zip
+asl_test_landmarks.csv
+asl_train_landmarks.csv
+asl_val_landmarks.csv
+finetunned.keras
+markdown.py
+nuevo.zip
+test-2.zip
 .venv
